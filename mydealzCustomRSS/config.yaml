@@ -1,7 +1,7 @@
 name: "mydealzCustomRSS"
 description: "Generate Custom RSS Feeds for mydealz"
 version: "0.1.1"
-slug: "mydealzCustomRSS"
+slug: "mydealzCustomRSSv2"
 init: false
 arch:
   - aarch64
