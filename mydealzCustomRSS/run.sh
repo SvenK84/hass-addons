@@ -1,3 +1,5 @@
 #!/usr/bin/with-contenv bashio
 
-echo "Hello world!"
+echo "mydealzCustomRSS v0.1"
+
+python3 -u mydealzCustomRSS.py
