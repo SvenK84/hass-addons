@@ -1,7 +1,7 @@
-name: "Hello world"
-description: "My first real add-on!"
-version: "1.0.0"
-slug: "hello_world"
+name: "rssTest"
+description: "RSS Test"
+version: "0.0.1"
+slug: "rssTest"
 init: false
 arch:
   - aarch64
