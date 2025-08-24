@@ -100,7 +100,7 @@ def generate_rss(deals):
         if "image" in deal:
             fe.enclosure(deal["image"], 0, "image/jpeg")
 
-    fg.rss_file("/homeassistant/www/mydealz.xml", pretty=True)
+    fg.rss_file("/homeassistant/www/mydealzCustomRSS.xml", pretty=True)
 
 if __name__ == "__main__":
     while True:
