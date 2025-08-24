@@ -1,7 +1,7 @@
-name: "Hello world"
-description: "My first real add-on!"
-version: "1.0.0"
-slug: "hello_world"
+name: "mydealzCustomRSS"
+description: "Generate Custom RSS Feeds for mydealz"
+version: "0.1.0"
+slug: "mydealzCustomRSS"
 init: false
 arch:
   - aarch64
@@ -12,4 +12,4 @@ arch:
 options:
   dealtemp: 200
 schema:
-  year: int
+  dealtemp: int
