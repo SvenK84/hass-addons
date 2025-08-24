@@ -9,3 +9,7 @@ arch:
   - armhf
   - armv7
   - i386
+options:
+  dealtemp: 200
+schema:
+  year: int
